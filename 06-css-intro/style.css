@@ -1,0 +1,25 @@
+.news > h2 {
+    color: tomato;
+}
+
+.news > article > h2 {
+    color: turquoise;
+}
+
+.news > article > p {
+    color: green;
+    font-style: italic;
+}
+
+.news > article > section > h2 {
+    color: orange;
+}
+
+.stories {
+    background-color: aquamarine;
+}
+
+.stories > h2 {
+    background-color: orangered;
+    font-size: 32px;
+}
